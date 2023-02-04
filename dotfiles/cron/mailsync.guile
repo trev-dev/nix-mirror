@@ -1,0 +1,2 @@
+(job '(next-minute-from (next-minute) (range 0 60 15))
+     "/home/trev/.local/bin/mailsync")

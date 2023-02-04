@@ -1,0 +1,6 @@
+result
+dotfiles/mbsyncrc
+dotfiles/config/vdirsyncer/config
+dotfiles/config/msmtp/config
+dotfiles/notmuch-config
+dotfiles/local/bin/mailsync.scm

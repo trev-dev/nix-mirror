@@ -1,0 +1,2 @@
+(job '(next-hour '(12))
+     "vdirsyncer sync")
